@@ -6,23 +6,23 @@ Projeto de E-commerce simples em Java
 ## Estrutura do Projeto
 
 ```
-ECommercePOO/
-├── src/
-│   ├── main/
-│   │   ├── java/
-│   │   │   └── com/gabrielrleite/ecommerce/
-│   │   │       ├── App.java
-│   │   │       ├── Cliente.java
-│   │   │       ├── Produto.java
-│   │   │       ├── Livro.java
-│   │   │       ├── Eletronico.java
-│   │   │       └── Pedido.java
-│   │   └── resources/
-│   └── test/
-│       ├── java/
-│       └── resources/
-├── pom.xml
-└── README.md
+ECommercePOO/  
+├── src/  
+│   ├── main/  
+│   │   ├── java/  
+│   │   │   └── com/gabrielrleite/ecommerce/  
+│   │   │       ├── App.java  
+│   │   │       ├── Cliente.java  
+│   │   │       ├── Produto.java  
+│   │   │       ├── Livro.java  
+│   │   │       ├── Eletronico.java  
+│   │   │       └── Pedido.java  
+│   │   └── resources/  
+│   └── test/  
+│       ├── java/  
+│       └── resources/  
+├── pom.xml  
+└── README.md  
 ```
 
 ## Pré-requisitos
